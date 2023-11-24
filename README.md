@@ -102,8 +102,8 @@ urlpatterns = [
 </html>
 ```
 # OUTPUT:
+![django models images](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-04-Django-Models/assets/145743112/2a12350c-e34e-4391-bd77-1affceb89ca2)
 
-![dango-models pdf](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-04-Django-Models/assets/145743112/d6716d0a-3bdb-402d-9ec3-b6e144d74c41)
 
 # RESULT:
 The django models created successfully.
