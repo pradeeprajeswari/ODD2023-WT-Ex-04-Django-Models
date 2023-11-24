@@ -102,7 +102,10 @@ urlpatterns = [
 </html>
 ```
 # OUTPUT:
-![django models images](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-04-Django-Models/assets/145743112/2a12350c-e34e-4391-bd77-1affceb89ca2)
+![djangomodels2 pdf](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-04-Django-Models/assets/145743112/2190346a-9a05-44a2-8ceb-a53e9922484d)
+
+
+![djangomodels3 pdf](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-04-Django-Models/assets/145743112/0914c4ad-ddc7-4617-9dfb-e84d7c1a4a83)
 
 
 # RESULT:
